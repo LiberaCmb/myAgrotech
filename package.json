@@ -1,0 +1,13 @@
+{
+  "name": "agro",
+  "version": "0.6.0",
+  "private": true,
+  "description": "Agro: consulente digitale per chi gestisce un campo o un allevamento. Prototipo dimostrativo.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
