@@ -4,6 +4,8 @@ Il consulente digitale per chi gestisce un campo o un allevamento.
 
 Agro legge il clima della sede, simula centinaia di futuri possibili e dice cosa fare, quando e perché: dalla data di semina di quest'anno agli investimenti dei prossimi trent'anni. Al suo interno c'è **My Agro**, il consulente a cui si scrive come a una persona.
 
+[**Prova Agro online**](https://myagrotech.netlify.app/)
+
 ![La pagina di presentazione](docs/schermate/01-presentazione.png)
 
 > **Stato del progetto: prototipo dimostrativo.** L'applicazione funziona, ma iscrizione, pagamenti, richiesta di intervento del tecnico e collegamento in rete dei sensori sono simulati. Il modello non è stato validato su dati reali. I dettagli sono in [Limiti](#limiti).
