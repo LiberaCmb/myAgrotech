@@ -1,4 +1,4 @@
-# Agro
+# Agro - Pianificazione agricola intelligente
 
 Il consulente digitale per chi gestisce un campo o un allevamento.
 
