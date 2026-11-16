@@ -61,7 +61,6 @@ agro/
 ├── server.js               Server locale senza dipendenze
 ├── fonts/                  Caratteri (Bricolage Grotesque, IBM Plex Sans)
 ├── img/                    Foto della sezione Sensori, con crediti
-├── dati/                   Creata al primo avvio; non entra nel repository
 ├── Avvia Agro.command      Avvio su Mac con doppio clic
 ├── Condividi Agro.command  Link pubblico temporaneo (Cloudflare Tunnel)
 └── docs/
